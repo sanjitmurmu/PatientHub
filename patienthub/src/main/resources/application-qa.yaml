@@ -1,0 +1,4 @@
+#qa configurations
+
+server:
+ port: 8181

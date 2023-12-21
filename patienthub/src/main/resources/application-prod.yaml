@@ -1,0 +1,4 @@
+#prod configurations
+
+server:
+ port: 9090
